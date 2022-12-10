@@ -1,5 +1,5 @@
 {
-  "homepage": "https://eliel15000.github.io/movieland",
+  "homepage": "http://eliel15000.github.io/MovieLand",
   "name": "movie_land",
   "version": "0.1.0",
   "private": true,
@@ -16,7 +16,7 @@
   "scripts": {
     "start": "react-scripts start",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build -r https://github.com/eliel15000/MovieLand.git",
+    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
